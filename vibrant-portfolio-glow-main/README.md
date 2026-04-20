@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Welcome to Future Interns
 
 TODO: Document your project here
